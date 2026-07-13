@@ -1,135 +1,256 @@
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jagadeesanr2005-dot&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0C,100:C9A227&height=240&section=header&text=Jagadeesan%20R&fontSize=58&fontColor=C9A227&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Angular%20|%20Electron%20|%20Node.js&descAlignY=55&descSize=18&descColor=F5E6A9"/>
 
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jagadeesanr2005-dot&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=C9A227&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Angular+Developer;Electron+Desktop+Developer;Building+Modern+SaaS+Applications;Always+Learning+New+Technologies"/>
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0C?style=for-the-badge&logo=vercel&logoColor=C9A227)](https://YOUR_PORTFOLIO)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0C?style=for-the-badge&logo=linkedin&logoColor=C9A227)](https://linkedin.com/in/YOUR_LINKEDIN)
+
+[![Email](https://img.shields.io/badge/Gmail-0A0A0C?style=for-the-badge&logo=gmail&logoColor=C9A227)](mailto:Jagadeesanr2005@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=jagadeesanr2005-dot&label=Profile%20Views&color=C9A227&style=for-the-badge"/>
 
 </div>
 
-<br>
+# 👨‍💻 About Me
 
-## 🧭 About Me
+Hi, I'm **Jagadeesan R**, a passionate **Full Stack Developer** from **India** who enjoys building modern web applications, desktop software, and automation tools.
 
-I'm a full stack developer based in India, focused on building **desktop automation tools**, **web applications**, and **frontend interfaces** for industrial and SaaS use cases. I like taking a rough idea, breaking it into a working architecture, and shipping something people actually use.
+I focus on writing clean, maintainable code and turning ideas into real-world applications that solve practical problems.
 
-- 🏢 Frontend Developer experience at **Acceedo** — Industrial IoT software
-- 🎓 BSc in Computer Science
-- 🎮 Started my journey with an internship at **Let's Game Development**
-- 🌱 Currently deepening my backend and system design skills
+### 🚀 Experience
 
-<br>
+- 💼 Former Frontend Developer at **Acceedo**
+- 🏭 Worked on Industrial IoT Software
+- 🎓 Bachelor of Science in Computer Science
+- 🎮 Internship at Let's Game Development
 
-## 🧰 Tech Stack
+### 🎯 Interests
 
-<table>
-<tr>
-<td valign="top" width="33%">
+- Desktop Applications
+- SaaS Products
+- Automation Tools
+- Artificial Intelligence
+- System Design
 
-**Languages**
-<br>
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+# 🚀 Currently Working On
 
-</td>
-<td valign="top" width="33%">
+- 💬 WhatsApp Bulk Sender SaaS
+- 🌐 Premium Portfolio Website
+- 📦 Desktop Scanner Application
+- 🤖 Jarvis AI Assistant
 
-**Frontend**
-<br>
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+# 📚 Currently Learning
 
-</td>
-<td valign="top" width="33%">
+- Java
+- Spring Boot
+- System Design
+- Backend Architecture
 
-**Backend & Tools**
-<br>
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+  # 💻 Tech Stack
 
-</td>
-</tr>
-</table>
+<p align="center">
 
-<br>
+<img src="https://skillicons.dev/icons?i=angular,react,ts,js,nodejs,express,python,java,mongodb,electron,html,css,scss,git,github,vscode&perline=8"/>
 
-## 🚀 Featured Projects
+</p>
+# 🚀 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 💬 WhatsApp Bulk Sender
-Electron desktop app that sends personalized WhatsApp messages at scale via Excel contact lists.
+## 📦 Desktop Scanner
 
-`Electron` `whatsapp-web.js` `Node.js`
+Industrial desktop application built for barcode validation and warehouse operations.
 
-- QR-based session auth with persistence
-- Randomized human-like send delays
-- Resume-on-crash progress tracking
+### Tech Stack
+
+`Angular`
+`Electron`
+`TypeScript`
+`Node.js`
+
+### Features
+
+✔ Barcode Scanning
+
+✔ Duplicate Detection
+
+✔ Serial Port Communication
+
+✔ Industrial Automation
+
+---
 
 </td>
+
 <td width="50%" valign="top">
 
-### 📖 Story Generator
-Flask web app that procedurally generates stories across 14 genres with a glassmorphism UI.
+## 💬 WhatsApp Bulk Sender
 
-`Python` `Flask` `JavaScript`
+Desktop SaaS application for sending personalized WhatsApp messages.
 
-- Randomized plot/name/place engine
-- Typewriter text reveal
-- Session history & favorites
+### Tech Stack
+
+`Electron`
+`Node.js`
+`whatsapp-web.js`
+
+### Features
+
+✔ Excel Import
+
+✔ Session Persistence
+
+✔ Bulk Messaging
+
+✔ Smart Delay System
+
+---
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 🌐 Developer Portfolio
-Personal portfolio site with a Luxury Black & Gold design system.
+## 🤖 AI Story Generator
 
-`React` `TypeScript` `Vite` `Framer Motion`
+Modern AI-powered story generation web application.
 
-- Custom animated components
-- Fully responsive, dark-themed UI
+### Tech Stack
+
+`Python`
+
+`Flask`
+
+`JavaScript`
+
+### Features
+
+✔ 14 Story Genres
+
+✔ Typewriter Animation
+
+✔ Story History
+
+✔ Beautiful UI
+
+---
 
 </td>
+
 <td width="50%" valign="top">
 
-### 📦 Desktop Scanner
-Industrial desktop scanning tool for barcode validation workflows.
+## 🌐 Developer Portfolio
 
-`Electron` `Angular` `TypeScript`
+Premium responsive portfolio website.
 
-- Barcode scanning & duplicate detection
-- Serial device communication
+### Tech Stack
+
+`React`
+
+`TypeScript`
+
+`Vite`
+
+`Framer Motion`
+
+### Features
+
+✔ Luxury Black & Gold UI
+
+✔ Responsive Design
+
+✔ Smooth Animations
+
+✔ SEO Friendly
+
+---
 
 </td>
+
 </tr>
+
 </table>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jagadeesanr2005-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jagadeesanr2005-dot&layout=compact&theme=tokyonight&hide_border=true"/> -->
-
-</div>
+# 📊 GitHub Overview
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=jagadeesanr2005-dot&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jagadeesanr2005-dot&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jagadeesanr2005-dot&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jagadeesanr2005-dot&theme=tokyonight"/>
+
+</div>
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jagadeesanr2005-dot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
+
+</div>
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+> Coming Soon 🚀
+
+</div>
+
+# 💼 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:Jagadeesanr2005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Building software that solves real-world problems.**
+
+*"Code. Learn. Build. Repeat."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A227,100:0A0A0C&height=120&section=footer"/>
 
 </div>
