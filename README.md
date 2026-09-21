@@ -6,7 +6,7 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0C?style=for-the-badge&logo=vercel&logoColor=C9A227)]([https://YOUR_PORTFOLIO](https://jagadeesan-portfolio.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0C?style=for-the-badge&logo=vercel&logoColor=C9A227)](https://jagadeesan-portfolio.vercel.app/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0C?style=for-the-badge&logo=linkedin&logoColor=C9A227)](https://linkedin.com/in/YOUR_LINKEDIN)
 
